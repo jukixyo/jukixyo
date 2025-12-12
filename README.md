@@ -1,51 +1,43 @@
-# 👋 Hey, I'm Nathan!
+## 👋 Hi, I'm **PolyDevX**
 
-### 16-year-old developer | Java • Python • C++ | learning C#
+I'm a 16-year-old developer who loves building random ideas and leveling up my coding skills one bug at a time.
+I mainly work with **C#** and **Java**, but I’m always experimenting with new tools, frameworks, and weird dev ideas that pop into my brain at 2 AM.
 
----
+### 🔧 What I Do
 
-### About Me
+* Build small apps, tools, and experiments in **C#**
+* Make Minecraft / game-related stuff in **Java**
+* Learn new tech just by breaking everything first 💀
+* Slowly turning into that one kid who codes everywhere — even in class (not proud, but also proud)
 
-Hey! I'm **Nathan**, a 16-year-old developer who likes making random ideas turn into working projects.
-I started with **Java** and **Python**, and now I’m also trying out **C++** and learning **C#**.
-I enjoy coding a lot — some days I make cool stuff, some days I break everything and fix it again 😭.
+### 🎯 What I’m Working Toward
 
----
+* Becoming a better full-stack/game dev
+* Writing cleaner code instead of “it works so don’t touch it” energy
+* Dropping more public projects instead of keeping them private forever
 
-### Languages & Tools
+### 💬 Fun Facts
 
-* **Java** – my main one
-* **Python** – for scripts and quick stuff
-* **C++** – for when I want a challenge
-* **C#** – learning it right now
-* I use **Git/GitHub**, **VS Code**, **IntelliJ**, **Visual Studio**
+* Yes, I debug with print statements. No, I will not change.
+* I refactor only when the pain becomes unbearable.
+* I code like a caffeinated squirrel.
 
----
+### ❓ Q&A
 
-### Current Goals
+- **Q: Why “PolyDevX”?**  
+A: Sounds cool, makes me look smarter than I actually am, and wasn’t taken 😭
 
-* Get better at **C#**
-* Make some fun open-source projects
-* Try more **game dev** and backend projects
+- **Q: What languages do you use?**  
+A: Mainly **C#** and **Java**, but I’ll touch anything that doesn’t explode instantly.
 
----
+- **Q: How long have you been coding?**  
+A: Long enough to know better, but not long enough to stop breaking everything.
 
-### Fun Facts
+- **Q: What kinda projects do you make?**  
+A: Tools, small apps, Minecraft-related stuff, random experiments… basically whatever my brain cooks at 2AM.
 
-* I talk to my compiler way too much
-* I helped fix two bugs in [Submerged](https://github.com/SubmergedAmongUs/Submerged)
-* My sleep schedule is basically caffeine
-* My debug logs look like a crime scene 💀
+- **Q: Are your repos clean?**  
+A: Absolutely not. My code works, and that’s my only personality trait.
 
----
-
-### Contact Me
-
-If you wanna talk or work on something:
-
-* **Email:** [nathangithub25@gmail.com](mailto:nathangithub25@gmail.com)
-* **Discord:** `n4thandev`
-
-> [!NOTE]  
-> If you DM me on Discord, start with **"I came from your GitHub"**  
-> I’ll send you a nice dev tip, like how XtraCube does.  
+- **Q: Do you take suggestions or collabs?**  
+A: Yeah, if it’s fun and doesn’t make me lose all my sanity.
