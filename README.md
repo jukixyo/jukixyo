@@ -1,1 +1,1 @@
-I am a really chill dude.
+![jukixyo's Stats](https://github-readme-stats.vercel.app/api?username=jukixyo&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
