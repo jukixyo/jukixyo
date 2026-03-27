@@ -3,5 +3,5 @@ Hey, I'm Jukixyo, a small content creator, a dev, an editor. I am 17 and I am st
 My Youtube: https://youtube.com/@Jukixyo  
 My Twitch: https://twitch.tv/jukixyo  
 My Curseforge: https://www.curseforge.com/members/jukixyo  
-My Modrinth: https://modrinth.com/user/Jukixyo
+My Modrinth: https://modrinth.com/user/Jukixyo  
 My Instagram: https://www.instagram.com/itzjukixyo
